@@ -1,0 +1,41 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+article{
+	background-color: #86F5B0;
+	height: 680px;
+}
+
+nav{
+	background-color: #F58986;
+}
+
+.navegacion{
+	background-color: #94D4F2;
+	opacity: .7;
+	font-family: Comic Sans MS;
+	font-size: 15;
+}
+
+li a:hover{
+	border-bottom: 3px dotted; yellow;
+	padding-bottom: 15px;
+}
+
+table{
+	background-color: #F7E3ED;
+}
+
+
+footer{
+	padding-top: 10px;
+	padding-left: 15px;
+	background-color: #D6B5F5;
+	width: auto;
+	height: 100px;
+	position: relative;
+}
+
